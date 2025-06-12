@@ -83,9 +83,9 @@ include "koneksi.php";
                       <label for="exampleInputEmail1" class="form-label">Status Tanaman</label>
                       <div class="mb-3"><select name="status" required autocomplete="off" class="form-control">
                                                                 <option value="" selected hidden>Status tanaman</option>
-                                                                    <option value="mati">mati</option>
-                                                                      <option value="layu">layu</option>
-                                                                         <option value="kering">kering</option>
+                                                                    <option value="mati">Layu</option>
+                                                                      <option value="layu">Kering</option>
+                                                                         <option value="kering">Mati</option>
                                                                                           </select></div>
                     <button type="submit" class="btn btn-primary" name="simpan">Simpan data</button>
                     <button type="reset" class="btn btn-danger m-1">Reset</button>

@@ -11,6 +11,6 @@ session_destroy();
 setcookie(session_name(), '', time() - 42000);
 
 // Arahkan ke halaman login
-header("Location: ../../index.php");
+header("Location: ../index.php");
 exit;
 ?>

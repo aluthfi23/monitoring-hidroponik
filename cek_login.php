@@ -27,7 +27,7 @@ if($cek > 0){
         $_SESSION['level'] = "admin";
         $_SESSION['status'] = 1;
         // alihkan ke halaman dashboard admin
-          header("location:../tanaman/html/admin/index2.php");
+          header("location:../tanaman/admin/index2.php");
     
     // cek jika user login sebagai user
     // }else if($data['level']=="user" && $data['status'] == 1){

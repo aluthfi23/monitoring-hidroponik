@@ -1,7 +1,7 @@
 <?php
 session_start();
 if($_SESSION['nik']==""){
-		header("location:../html/admin/index.php?pesan=gagal");
+		header("location:../admin/index.php?pesan=gagal");
 	}
 
 	?>

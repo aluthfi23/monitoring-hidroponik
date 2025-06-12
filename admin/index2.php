@@ -55,7 +55,7 @@ include "topheader.php";
 </div>
 
 <div class="py-6 px-6 text-center">
-    <p class="mb-0 fs-4">Developed by <a href="" target="_blank" class="pe-1 text-primary text-decoration-underline">Aluthfi</a> UNSIKA @2025</p>
+    <p class="mb-0 fs-4">By <a href="" target="_blank" class="pe-1 text-primary text-decoration-underline">Aluthfi</a> 2025</p>
 </div>
 
 <!-- Tambahkan FullCalendar CSS & JS -->
